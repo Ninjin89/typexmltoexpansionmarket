@@ -3,6 +3,7 @@
 Quick made this tool with no experince at all but works so far, maybe there will be updates coming.
 
 If something is not working let me know maybe i can update the tool for you.
+https://discord.gg/XEgB8BPT
 
 **Version 1.0.0**
 
