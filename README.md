@@ -17,3 +17,6 @@ This tool will export items out of type.xml by dragging the XML on the EXE or do
 ## How it should look at the end of the file
 
 ![2](https://i.ibb.co/Qdqjrpj/2.png)
+
+
+You may also need to change the InitStockPercent to your liking.
