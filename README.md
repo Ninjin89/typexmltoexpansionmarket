@@ -1,6 +1,6 @@
 # Type.xml to Expansion Market converter
 
-Quick made this tool with no experince at all but works so far there will be updates coming.
+Quick made this tool with no experince at all but works so far, maybe there will be updates coming.
 
 **Version 1.0.0**
 
