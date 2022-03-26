@@ -5,16 +5,25 @@ Quick made this tool, maybe there will be updates coming & source release.
 If something is not working let me know maybe i can update the tool for you.
 https://dsc.gg/cyberneticmonkeys
 
-
 **Version 1.0.1**
 
 This tool will export items out of type.xml by dragging the types.xml, on the .exe or double click the .exe while the type.xml is in same folder and is also named types.xml.
 
 Also keep in mind the converter exports each item seperated, which means if you have for example: "watterbottle_green" and "watterbottle_blue" it will outprint it as each seperated codeblock and won't be listed under "variants" in the json, you have todo that manually.
 
+# How to use it
+Place `types.xml` file into your Folder where the `convertertoexpansion.exe` is and run the exe. Open the `TraderConfig.json` to see the output.
+
+* yourtypes.xml must be named `types.xml`
+
+
 **Changes you may also need to change to your liking:**
 
-DisplayName, InitStockPercent, Icon, Color and Prices to your liking. 
+* DisplayName
+* InitStockPercent
+* Icon
+* Color 
+* Prices
 
 ![GitHub release (latest by date)](https://img.shields.io/github/downloads/Ninjin89/typexmltoexpansionmarket/latest/total?style=flat-square)
 # Example of Xml
