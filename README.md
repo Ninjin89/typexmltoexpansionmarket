@@ -10,14 +10,14 @@ https://discord.gg/p3uXedtupP
 This tool will export items out of type.xml by dragging the XML on the EXE or double click the convertertoexpansion.exe while the type.xml is in same folder.
 
 !! Please not that you have to remove a comma inside tradermarket.json at the end of the  file !!
-# Example:
+# Example of XML:
 
-![1](https://i.ibb.co/hMZxVCV/1.png)
+![1](https://i.ibb.co/rwBkDsz/1.png)
 
 		
-## How it should look at the end of the file
+## Example of the Json output
 
-![2](https://i.ibb.co/Qdqjrpj/2.png)
+![2](https://i.ibb.co/z6XZYF1/2.png)
 
 
 You may also need to change the InitStockPercent to your liking.
