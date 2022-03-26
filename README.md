@@ -10,11 +10,12 @@ This tool will export items out of type.xml by dragging the types.xml, on the .e
 
 Also keep in mind the converter exports each item seperated, which means if you have for example: "watterbottle_green" and "watterbottle_blue" it will outprint it as each seperated codeblock and won't be listed under "variants" in the json, you have todo that manually.
 
-**Please note that you have to change the DisplayName of the Trader because i left it empty!**
 
-You may also need to change the InitStockPercent,Icon,Color and Prices to your liking. 
+**Changes you may also need to change to your liking:**
 
-# Example of Xml:
+DisplayName, InitStockPercent, Icon, Color and Prices to your liking. 
+
+# Example of Xml
 
 ![1](https://i.ibb.co/rwBkDsz/1.png)
 
