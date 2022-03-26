@@ -9,7 +9,7 @@ https://dsc.gg/cyberneticmonkeys
 
 This tool will export items out of type.xml by dragging the types.xml, on the .exe or double click the .exe while the type.xml is in same folder and is also named types.xml.
 
-Also keep in mind the converter exports each item seperated, which means if you have for example: `watterbottle_green` and `watterbottle_blue` it will outprint it as each seperated codeblock and won't be listed under "variants" in the json, you have todo that manually.
+Also keep in mind the converter exports each item seperated, which means if you have for example: `watterbottle_green` and `watterbottle_blue` it will outprint it as each seperated codeblock and won't be listed under `variants` in the json, you have todo that manually.
 
 # How to use it
 Place `types.xml` file into your Folder where the `convertertoexpansion.exe` is and run the exe. Open the `TraderConfig.json` to see the output.
