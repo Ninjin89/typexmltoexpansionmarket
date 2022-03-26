@@ -6,13 +6,13 @@ https://discord.gg/p3uXedtupP
 
 **Version 1.0.1**
 
-This tool will export items out of type.xml by dragging the XML on the EXE or double click the convertertoexpansion.exe while the type.xml is in same folder.
+This tool will export items out of type.xml by dragging the types.xml, on the .exe or double click the .exe while the type.xml is in same folder and is also named types.xml.
 
 **Please note that you have to change the DisplayName of the Trader because i left it empty!**
 
-You may also need to change the InitStockPercent,Icon & Color to your liking.
+You may also need to change the InitStockPercent,Icon,Color and Prices to your liking. 
 
-# Example of XML:
+# Example of Xml:
 
 ![1](https://i.ibb.co/rwBkDsz/1.png)
 
