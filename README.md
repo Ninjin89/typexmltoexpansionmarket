@@ -17,12 +17,11 @@ DisplayName, InitStockPercent, Icon, Color and Prices to your liking.
 
 # Example of Xml
 
-![1](https://i.ibb.co/rwBkDsz/1.png)
+![image](https://user-images.githubusercontent.com/25750563/160250408-d90d7120-e276-4668-99f1-e5503b0db9a3.png)
 
 		
 ## Example of the Json output
-
-![2](https://i.ibb.co/z6XZYF1/2.png)
+![image](https://user-images.githubusercontent.com/25750563/160250390-6f95d0b2-e081-4391-8f75-a9945d3bf9c0.png)
 
 
 
