@@ -5,11 +5,11 @@ Quick made this tool with no experince at all but works so far, maybe there will
 If something is not working let me know maybe i can update the tool for you.
 https://discord.gg/p3uXedtupP
 
-**Version 1.0.0**
+**Version 1.0.1**
 
 This tool will export items out of type.xml by dragging the XML on the EXE or double click the convertertoexpansion.exe while the type.xml is in same folder.
 
-!! Please not that you have to change the "DisplayName": "MyTraderName", !!
+**Please note that you have to change the the DisplayName of the Trader because i left it empty!**
 
 # Example of XML:
 
