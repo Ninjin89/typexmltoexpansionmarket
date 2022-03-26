@@ -3,7 +3,7 @@
 
 Quick made this tool, maybe there will be updates coming & source release.
 If something is not working let me know maybe i can update the tool for you.
-https://discord.gg/p3uXedtupP
+dsc.gg/cyberneticmonkeys
 
 **Version 1.0.1**
 
