@@ -10,7 +10,7 @@ This tool will export items out of type.xml by dragging the XML on the EXE or do
 
 **Please note that you have to change the DisplayName of the Trader because i left it empty!**
 
-You may also need to change the InitStockPercent to your liking.
+You may also need to change the InitStockPercent,Icon & Color to your liking.
 
 # Example of XML:
 
