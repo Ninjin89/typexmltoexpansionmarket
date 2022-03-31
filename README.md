@@ -30,7 +30,6 @@ Also keep in mind the converter exports each item seperated, which means if you 
 * Color 
 * Prices
 
-![GitHub release (latest by date)](https://img.shields.io/github/downloads/Ninjin89/typexmltoexpansionmarket/latest/total?style=flat-square)
 # Example of Xml
 
 ![image](https://user-images.githubusercontent.com/25750563/160250408-d90d7120-e276-4668-99f1-e5503b0db9a3.png)
