@@ -5,7 +5,7 @@ Quick made this tool, maybe there will be updates coming & source release.
 If something is not working let me know maybe i can update the tool for you.
 https://dsc.gg/cyberneticmonkeys
 
-**SOURCE REPO** (make your own changes)
+**SOURCE REPO** (make your own changes):
 https://github.com/Ninjin89/TypesToExpansionMarket-Source
 
 **Version 1.0.1**
