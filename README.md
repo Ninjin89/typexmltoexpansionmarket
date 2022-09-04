@@ -21,8 +21,8 @@ Also keep in mind the converter exports each item seperated, which means if you 
 2.Open the `TraderConfig.json` to see the output.
 
 
-
-
+## Make sure the XML Heading is looking like in the Example.xml some Mod XML's do not have that which is bad!
+<?xml version="1.0" encoding="utf-8"?>
 
 
 **Changes you may also need to change to your liking:**
