@@ -32,6 +32,7 @@ Also keep in mind the converter exports each item seperated, which means if you 
 * Icon
 * Color 
 * Prices
+* m_Version:
 
 # Example of Xml
 
