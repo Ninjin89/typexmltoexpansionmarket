@@ -7,6 +7,11 @@ If something is not working let me know maybe i can update the tool for you.
 ## :rocket: Contact
 <a href="https://discord.gg/mEPT9KNSxs"><img src="https://amplication.com/images/discord_banner_purple.svg" /></a>
 
+
+> **Note**
+> I made a new Version of this with a UI, you can find it here: https://github.com/Ninjin89/Types-to-Expansion-Market-Converter-UI.
+
+
 **SOURCE REPO** (make your own changes):
 https://github.com/Ninjin89/TypesToExpansionMarket-Source
 
