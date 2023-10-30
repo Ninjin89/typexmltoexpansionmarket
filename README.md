@@ -3,7 +3,9 @@
 
 Quick made this tool, maybe there will be updates coming & source release.
 If something is not working let me know maybe i can update the tool for you.
-https://dsc.gg/cyberneticmonkeys
+
+## :rocket: Contact
+<a href="https://discord.gg/mEPT9KNSxs"><img src="https://amplication.com/images/discord_banner_purple.svg" /></a>
 
 **SOURCE REPO** (make your own changes):
 https://github.com/Ninjin89/TypesToExpansionMarket-Source
